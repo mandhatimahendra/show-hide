@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mandhatimahendra/show-hide/static/css/main.673a9f82.css",
+    "main.js": "/mandhatimahendra/show-hide/static/js/main.b6a7c7d2.js",
+    "static/js/592.9a2ede6b.chunk.js": "/mandhatimahendra/show-hide/static/js/592.9a2ede6b.chunk.js",
+    "index.html": "/mandhatimahendra/show-hide/index.html",
+    "main.673a9f82.css.map": "/mandhatimahendra/show-hide/static/css/main.673a9f82.css.map",
+    "main.b6a7c7d2.js.map": "/mandhatimahendra/show-hide/static/js/main.b6a7c7d2.js.map",
+    "592.9a2ede6b.chunk.js.map": "/mandhatimahendra/show-hide/static/js/592.9a2ede6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.673a9f82.css",
+    "static/js/main.b6a7c7d2.js"
+  ]
+}
